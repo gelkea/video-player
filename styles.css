@@ -1,8 +1,10 @@
-
-body {
-	background-image: url("http://www.redkid.net/generator/vegas/newsign.php?line1=MEMEVILLE&Viva+Las+Vegas=Viva+Las+Vegas");
-}
-
 #One{
 	color: red
+}
+body{
+	background-color: blue
+}
+.thumbnaio{
+	width:496;
+	height:262;
 }
